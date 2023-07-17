@@ -6,10 +6,6 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bello-taofeek-olanrewaju-0878351a5/), [Twitter](https://twitter.com/BelloTfk)
 - ⚡ Fun fact: I love watching football, at my free time, I study or watch movies.
 
-#Tools 
-- Excel
-- Power BI
-- SQL
 
 <!---
 BelloTfk/BelloTfk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
