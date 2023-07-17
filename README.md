@@ -2,7 +2,7 @@
 - 👀 I am a student of the University of Lagos, majoring in Human Resource Management. I’m interested in Data Analytics and all it entails 
 - 🌱 I’m a data analyst enthusiast
 - 💞️ I’m looking to collaborate with other people in this field of analytics, and I'm ready to learn as well.
-- 💼 I'm open to junior data analyst roles and internships
+- 💼 I'm open to internships
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bello-taofeek-olanrewaju-0878351a5/), [Twitter](https://twitter.com/BelloTfk)
 - ⚡ Fun fact: I love watching football, at my free time, I study or watch movies.
 
